@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Rounding.ts"],"names":["Rounding","Nearest","Up","None"],"mappings":";;;;;;AAAO,IAAMA,QAAQ,GAAG;AACtBC,EAAAA,OAAO,EAAE,SADa;AAEtBC,EAAAA,EAAE,EAAE,IAFkB;AAGtBC,EAAAA,IAAI,EAAE;AAHgB,CAAjB","sourcesContent":["export const Rounding = {\n  Nearest: 'nearest',\n  Up: 'up',\n  None: 'none',\n} as const;\n"],"file":"Rounding.js"}

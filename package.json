@@ -1,0 +1,27 @@
+{
+  "name": "latihan-npm",
+  "version": "0.0.1",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gaza Alfath",
+  "license": "ISC",
+  "description": "coba latihan npm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazfath12/latihan-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gazfath12/latihan-npm/issues"
+  },
+  "homepage": "https://github.com/gazfath12/latihan-npm#readme",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "adhan": "^4.4.3"
+  }
+}
